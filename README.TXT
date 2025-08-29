@@ -1,18 +1,43 @@
-Project: lab-classes
-Authors: David J. Barnes and Michael Kölling
+Mahik Patel
 
-This project is part of the material for the book
+Part 5:
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-   Pearson Education
+22.
+A window opens where I can Inspect or Get
 
-It is discussed in chapter 1.
+24.
+It shows the current number of students in a window (currently 0)
 
-The purpose of this project is to illustrate object interaction and to examine
-some simple code. See chapters one and three of the book.
+31.
+0 is a interger
+"hello" is a string
+101 is a interger
+-1 is a interger
+true is a boolean
+“33” is a string
+3.1415 is a float
 
-To use this project, create some Student objects, then create a LabClass object.
-Add the students to the class using the "enrolStudent" method. Print a class
-list.
+32.
+public circle
+{
+    string name = "circle
+}
+
+33.
+void send
+{
+    string asdf = "g"
+}
+
+34.
+public average
+{
+    int asdf = 1
+    print asdf 
+}
+
+35. 
+The book is a class, every chapter is a object of the book
+
+36. 
+It can not have several classes. A object is saved into a class and can not be brought into another one
